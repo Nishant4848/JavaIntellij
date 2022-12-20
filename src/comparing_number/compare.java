@@ -34,5 +34,7 @@ public class compare {
         {
             System.out.println(a+">="+b);
         }
+
+
     }
 }
